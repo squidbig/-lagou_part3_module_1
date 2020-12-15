@@ -1,0 +1,5 @@
+com\lagou\handler\UserClientHandler.class
+com\lagou\client\RPCConsumer$2.class
+com\lagou\boot\ConsumerBoot.class
+com\lagou\client\RPCConsumer$1.class
+com\lagou\client\RPCConsumer.class
